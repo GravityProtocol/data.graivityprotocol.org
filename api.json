@@ -1,0 +1,22 @@
+[
+  {
+    "url": "wss://grvapi.graphenelab.org/ws",
+    "location": "CDN"
+  },
+  {
+    "url": "wss://api-0.gravityprotocol.org/ws",
+    "location": "Germany"
+  },
+  {
+    "url": "wss://api-3.gravityprotocol.org/ws",
+    "location": "Singapur"
+  },
+  {
+    "url": "wss://api-4.gravityprotocol.org/ws",
+    "location": "Singapur"
+  },
+  {
+    "url": "wss://api-6.gravityprotocol.org/ws",
+    "location": "Russia"
+  }
+]
